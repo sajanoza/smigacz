@@ -1,3 +1,5 @@
+// Hello World
+
 var obrazkiArr = document.getElementsByClassName('obrazek');
 var obrazkiOArr = new Array();
 //var wielkoscDuzego= 357;
